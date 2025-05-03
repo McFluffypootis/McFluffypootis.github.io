@@ -12,4 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
