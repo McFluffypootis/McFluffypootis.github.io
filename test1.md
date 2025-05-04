@@ -1,9 +1,6 @@
 ---
 layout: post
 title: test 
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 ---
 
 
