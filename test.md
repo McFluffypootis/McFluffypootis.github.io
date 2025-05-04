@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Front Page
+usemathjax: true
 ---
 
 # This is a test page
