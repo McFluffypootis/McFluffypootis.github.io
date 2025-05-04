@@ -1,0 +1,13 @@
+---
+layout: post
+title: Front Page
+---
+
+<script type="text/javascript" async 
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
+config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+Test page again 
+
+$f(x) \in R$
