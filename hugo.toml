@@ -2,6 +2,9 @@ baseURL = 'https://McFluffypootis.github.io/'
 languageCode = 'en-us'
 title = 'McFluffypootis'
 theme = 'PaperMod'
+math = true
+
+
 
 [caches]
   [caches.images]
